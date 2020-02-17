@@ -27,4 +27,4 @@ I wish to become a Web - developer, as it's a great opportunity to realize my po
 Upper - Intermediate (B2). Can understand a speaker, may engage in a conversation on various topics, can fully understand technical documentation. Studied since kindergarten.
 
 ## Github Pages link:
-https://evigertsik.github.io/rsschool-cv/
+https://evigertsik.github.io/rsschool-cv/cv
